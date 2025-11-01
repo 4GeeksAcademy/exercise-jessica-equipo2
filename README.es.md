@@ -4,7 +4,7 @@
 
 Practica tus habilidades en Git mientras desarrollas un sitio web típico.
 
-Cada alumno trabajará en un archivo diferente para cada parte diferente del sitio web y aquel con más experiencia puede trabajar como líder de equipo (para integración y despliegue), a menos que el profesor prefiera ser el líder de equipo de toda la clase. La librería Html-Template-Engine se encargará de juntar todas las piezas.
+Cada alumno trabajará en un archivo diferente para cada parte diferente del sitio web y aquel con más experiencia puede trabajar como lídernpx http-server --yes -c-1 de equipo (para integración y despliegue), a menos que el profesor prefiera ser el líder de equipo de toda la clase. La librería Html-Template-Engine se encargará de juntar todas las piezas.
 
 
 ## 📝 Instrucciones
@@ -16,7 +16,7 @@ Cada alumno trabajará en un archivo diferente para cada parte diferente del sit
 3. Cada colaborador tendrá que clonar el nuevo repositorio forkeado por el líder de equipo y desarrollar una parte del sitio web escogido, cada proyecto está dividido en partes dentro del directorio `website/templates/`. Cuando todos tengan su editor de código abierto, pueden iniciar el proyecto con este comando:
 
 ```bash
-$ npx http-server --yes -c-1
+$ 
 ```
 
 + Se te ofrecerá una opción para abrirlo en el navegador y tendrás botones para ver el sitio en vivo, cómo debería verse y las referencias sobre cada parte del sitio web. Si recibes un error, espera un momento y refresca la página.
