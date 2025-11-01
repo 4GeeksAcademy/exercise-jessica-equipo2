@@ -72,7 +72,7 @@ Este y otros proyectos son usados para [aprender a programar](https://4geeksacad
 
 ## Seccion de cada integrante 
 
-- Nav bar y jumbotron: Kevin Israel
+- Navbar, first heading, services: Kevin Israel
 - tagline: Enrique de Jesus
 - Portfolio: Adrian Granada
 - Contacto: Jessica
